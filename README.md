@@ -4,6 +4,10 @@ An trading system basing on adaboost algorithm using weak classifiers assembled 
 Note: Firstly, I should say something about this program and its implementation motivation.
 
 
+Investment has certain risks, be wised with your decision.
+I have never apply this program to real market now.
+
+
 
 As we all know stock market is unpredictable, and somewhat stochastic. That's why I don't
 "precict" its price ups and downs. This program is not mean to achieve 90%-100% accuracy
