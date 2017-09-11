@@ -1,6 +1,6 @@
 # adaboost-trading-system
 
-An trading system basing on adaboost algorithm using weak classifiers assembled to predict.
+A trading system basing on adaboost algorithm using weak classifiers assembled to predict.
 Note: Firstly, I should say something about this program and its implementation motivation.
 
 
